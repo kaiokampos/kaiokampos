@@ -29,4 +29,4 @@ Atualmente aprofundando React, Node.js, TypeScript e integração com IA.
 
 ### Conecte-se
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaiokampos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaiocamposti/)
